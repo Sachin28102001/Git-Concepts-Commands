@@ -1,7 +1,9 @@
 # Git-Concepts-Commands
 
 🔹 Git Basics & Core Concepts
+
 --> Concept	Explanation
+
 Q. Commit	
 A. snapshot of your project at a given point in time. Immutable and identified by SHA-1 hash.
 
